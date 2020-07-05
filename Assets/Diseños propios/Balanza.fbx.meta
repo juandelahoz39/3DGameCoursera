@@ -1,15 +1,22 @@
 fileFormatVersion: 2
-guid: 4007be3074a390c4b896dcd9a0225050
-timeCreated: 1593377126
+guid: 3ec60923555ed3747bbb544d9f88499c
+timeCreated: 1593896362
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Balanzabase
+    100004: Balanzatabla
     400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Circle.001
+    400002: Balanzabase
+    400004: Balanzatabla
+    2300000: Balanzabase
+    2300002: Balanzatabla
+    3300000: Balanzabase
+    3300002: Balanzatabla
+    4300000: Balanzabase
+    4300002: Balanzatabla
   materials:
     importMaterials: 1
     materialName: 0

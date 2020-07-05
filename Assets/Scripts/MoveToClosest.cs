@@ -15,16 +15,16 @@ public class MoveToClosest : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		rgb = GetComponent<Rigidbody> ();
-		// Hacer los enlaces a los objetos. Debería hacerse solo una vez...
-		p1 = GameObject.Find("BenchSpecial/p1");
-		p2 = GameObject.Find("BenchSpecial/p2");
-		if (Vector3.Distance (transform.position, p1.transform.position) < Vector3.Distance (transform.position, p2.transform.position)) {
-			pClose = p1;
-		} else {
-			pClose = p2;
-		}
-		startAnim = false;
+		//rgb = GetComponent<Rigidbody> ();
+		//// Hacer los enlaces a los objetos. Debería hacerse solo una vez...
+		//p1 = GameObject.Find("BenchSpecial/p1");
+		//p2 = GameObject.Find("BenchSpecial/p2");
+		//if (Vector3.Distance (transform.position, p1.transform.position) < Vector3.Distance (transform.position, p2.transform.position)) {
+		//	pClose = p1;
+		//} else {
+		//	pClose = p2;
+		//}
+		//startAnim = false;
 	}
 
 	void OnTriggerEnter(Collider other) {

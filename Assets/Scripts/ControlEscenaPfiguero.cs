@@ -10,7 +10,8 @@ public class ControlEscenaPfiguero : MonoBehaviour {
 	private GameManager gameManager;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {/*
 		bed = GameObject.Find ("bed");
 		phonographLocker = GameObject.Find ("phonographLocker");
 
@@ -23,19 +24,19 @@ public class ControlEscenaPfiguero : MonoBehaviour {
 			gameManager = g.GetComponent<GameManager> ();
 
 		if (gameManager.yaHuboEarthquake) {
-			bed.transform.position = new Vector3 (1533, 137.53f, 1375.79f);
-			bed.transform.Rotate (new Vector3 (0f, 270, 0f));
+			//bed.transform.position = new Vector3 (1533, 137.53f, 1375.79f);
+			//bed.transform.Rotate (new Vector3 (0f, 270, 0f));
 			phonographLocker.transform.position = new Vector3 (1529.8f, 137.63f, 1375.44f);
 			phonographLocker.transform.Rotate (new Vector3 (0, -90, 0));
 			sonidoCasaPfiguero1.pitch = gameManager.pitch;
-		} /*else {
+		} else {
 			bed.transform.position = new Vector3 (1533, 137.63f, 1375.23f);
 			bed.transform.Rotate (new Vector3 (0, -90, 0));
 			phonographLocker.transform.position = new Vector3 (1529.8f, 137.63f, 1374.82f);
 			phonographLocker.transform.Rotate (new Vector3 (0, -90, 0));
 		}*/
-		
-	}
+
+    }
 	
 	void OnEnable()
 	{

@@ -1,15 +1,60 @@
 fileFormatVersion: 2
-guid: 255caaf59254f854ba280fd9f5c14876
-timeCreated: 1593296835
+guid: 60c09c902125a394e9551131b3b4e4da
+timeCreated: 1593289197
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Domino
+    100004: Punto 1
+    100006: Punto 2
+    100008: Punto 3
+    100010: Punto 4
+    100012: Punto 5
+    100014: Punto 6
+    100016: Punto 7
+    100018: Domino cuerpo
     400000: //RootNode
+    400002: Domino
+    400004: Punto 1
+    400006: Punto 2
+    400008: Punto 3
+    400010: Punto 4
+    400012: Punto 5
+    400014: Punto 6
+    400016: Punto 7
+    400018: Domino cuerpo
     2300000: //RootNode
+    2300002: Domino
+    2300004: Punto 1
+    2300006: Punto 2
+    2300008: Punto 3
+    2300010: Punto 4
+    2300012: Punto 5
+    2300014: Punto 6
+    2300016: Punto 7
+    2300018: Domino cuerpo
     3300000: //RootNode
-    4300000: Plane.001
+    3300002: Domino
+    3300004: Punto 1
+    3300006: Punto 2
+    3300008: Punto 3
+    3300010: Punto 4
+    3300012: Punto 5
+    3300014: Punto 6
+    3300016: Punto 7
+    3300018: Domino cuerpo
+    4300000: Circle
+    4300002: Punto 2
+    4300004: Punto 1
+    4300006: Punto 3
+    4300008: Punto 6
+    4300010: Punto 4
+    4300012: Punto 5
+    4300014: Punto 7
+    4300016: Domino
+    4300018: Domino cuerpo
   materials:
     importMaterials: 1
     materialName: 0

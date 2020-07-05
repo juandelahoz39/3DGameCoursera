@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 090225c7e29f9ab44a9a5c897705c4ac
+timeCreated: 1593906988
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cable_resorte_guante
+    100002: Guantedebox
+    100004: Interruptor_base.001
+    100006: Resorte
+    100008: Resorte_base
+    100010: Resorte_interruptor
+    100012: //RootNode
+    400000: Cable_resorte_guante
+    400002: Guantedebox
+    400004: Interruptor_base.001
+    400006: Resorte
+    400008: Resorte_base
+    400010: Resorte_interruptor
+    400012: //RootNode
+    2300000: Cable_resorte_guante
+    2300002: Guantedebox
+    2300004: Interruptor_base.001
+    2300006: Resorte
+    2300008: Resorte_base
+    2300010: Resorte_interruptor
+    3300000: Cable_resorte_guante
+    3300002: Guantedebox
+    3300004: Interruptor_base.001
+    3300006: Resorte
+    3300008: Resorte_base
+    3300010: Resorte_interruptor
+    4300000: Guantedebox
+    4300002: Resorte
+    4300004: Resorte_interruptor
+    4300006: Interruptor_base.001
+    4300008: Cable_resorte_guante
+    4300010: Resorte_base
+    7400000: Guantedebox|GuantedeboxAction
+    7400002: Resorte|CircleAction
+    7400004: Resorte|GuantedeboxAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Guantedebox|GuantedeboxAction
+      takeName: Guantedebox|GuantedeboxAction
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cable_resorte_guante
+        weight: 1
+      - path: Guantedebox
+        weight: 1
+      - path: Interruptor_base.001
+        weight: 1
+      - path: Resorte
+        weight: 1
+      - path: Resorte_base
+        weight: 1
+      - path: Resorte_interruptor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Resorte|CircleAction
+      takeName: Resorte|CircleAction
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cable_resorte_guante
+        weight: 1
+      - path: Guantedebox
+        weight: 1
+      - path: Interruptor_base.001
+        weight: 1
+      - path: Resorte
+        weight: 1
+      - path: Resorte_base
+        weight: 1
+      - path: Resorte_interruptor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Resorte|GuantedeboxAction
+      takeName: Resorte|GuantedeboxAction
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cable_resorte_guante
+        weight: 1
+      - path: Guantedebox
+        weight: 1
+      - path: Interruptor_base.001
+        weight: 1
+      - path: Resorte
+        weight: 1
+      - path: Resorte_base
+        weight: 1
+      - path: Resorte_interruptor
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

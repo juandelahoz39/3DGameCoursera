@@ -1,15 +1,47 @@
 fileFormatVersion: 2
-guid: 60c09c902125a394e9551131b3b4e4da
-timeCreated: 1593289197
+guid: 19a46c4c00f049f4dae165ecb0458ab8
+timeCreated: 1593894306
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Circle
+    100000: BarraSuperior_lampara
+    100002: Base_lampara
+    100004: Cabeza_lampara
+    100006: cable
+    100008: Foco
+    100010: Interruptor_accionador
+    100012: Interruptor_base
+    100014: //RootNode
+    400000: BarraSuperior_lampara
+    400002: Base_lampara
+    400004: Cabeza_lampara
+    400006: cable
+    400008: Foco
+    400010: Interruptor_accionador
+    400012: Interruptor_base
+    400014: //RootNode
+    2300000: BarraSuperior_lampara
+    2300002: Base_lampara
+    2300004: Cabeza_lampara
+    2300006: cable
+    2300008: Foco
+    2300010: Interruptor_accionador
+    2300012: Interruptor_base
+    3300000: BarraSuperior_lampara
+    3300002: Base_lampara
+    3300004: Cabeza_lampara
+    3300006: cable
+    3300008: Foco
+    3300010: Interruptor_accionador
+    3300012: Interruptor_base
+    4300000: Interruptor_base
+    4300002: Interruptor_accionador
+    4300004: Foco
+    4300006: cable
+    4300008: Base_lampara
+    4300010: BarraSuperior_lampara
+    4300012: Cabeza_lampara
   materials:
     importMaterials: 1
     materialName: 0

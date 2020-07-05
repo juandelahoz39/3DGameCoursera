@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 662010bee7c514949a336731b415f007
-timeCreated: 1593296578
+guid: 7abb4f0a67ee3bf44bf9ca577d8946e2
+timeCreated: 1593894563
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Plane
+    4300000: Libro
   materials:
     importMaterials: 1
     materialName: 0
