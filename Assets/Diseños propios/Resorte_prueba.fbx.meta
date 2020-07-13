@@ -1,37 +1,52 @@
 fileFormatVersion: 2
-guid: 3ec60923555ed3747bbb544d9f88499c
-timeCreated: 1593896362
+guid: c8124934996f7b549a3a4b0d0d2f13fa
+timeCreated: 1594140099
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Balanzabase
-    100004: Balanzatabla
-    100006: Pared_1
-    100008: Pared_2
-    100010: Pared_3
-    400000: //RootNode
-    400002: Balanzabase
-    400004: Balanzatabla
-    400006: Pared_1
-    400008: Pared_2
-    400010: Pared_3
-    2300000: Balanzabase
-    2300002: Balanzatabla
-    2300004: Pared_1
-    2300006: Pared_2
-    2300008: Pared_3
-    3300000: Balanzabase
-    3300002: Balanzatabla
-    3300004: Pared_1
-    3300006: Pared_2
-    3300008: Pared_3
-    4300000: Balanzabase
-    4300002: Balanzatabla
-    4300004: Pared_1
-    4300006: Pared_2
-    4300008: Pared_3
+    100000: Cable_resorte_guante
+    100002: Guantedebox
+    100004: Interruptor_base.001
+    100006: Resorte
+    100008: Resorte_base
+    100010: Resorte_interruptor
+    100012: //RootNode
+    400000: Cable_resorte_guante
+    400002: Guantedebox
+    400004: Interruptor_base.001
+    400006: Resorte
+    400008: Resorte_base
+    400010: Resorte_interruptor
+    400012: //RootNode
+    2300000: Cable_resorte_guante
+    2300002: Guantedebox
+    2300004: Interruptor_base.001
+    2300006: Resorte
+    2300008: Resorte_base
+    2300010: Resorte_interruptor
+    3300000: Cable_resorte_guante
+    3300002: Guantedebox
+    3300004: Interruptor_base.001
+    3300006: Resorte
+    3300008: Resorte_base
+    3300010: Resorte_interruptor
+    4300000: Guantedebox
+    4300002: Resorte_interruptor
+    4300004: Interruptor_base.001
+    4300006: Cable_resorte_guante
+    4300008: Resorte_base
+    4300010: Resorte
+    7400000: Guantedebox|CircleAction.002
+    7400002: Guantedebox|GuantedeboxAction
+    7400004: Guantedebox|Resorte_interruptorAction
+    7400006: Resorte_interruptor|CircleAction.002
+    7400008: Resorte_interruptor|GuantedeboxAction
+    7400010: Resorte_interruptor|Resorte_interruptorAction
+    7400012: Resorte|CircleAction.002
+    7400014: Resorte|GuantedeboxAction
+    7400016: Resorte|Resorte_interruptorAction
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -90,7 +105,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
